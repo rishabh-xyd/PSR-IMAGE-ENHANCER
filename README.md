@@ -1,6 +1,6 @@
 # Low Light Image Enhancement for PSR Regions of Lunar Craters
 
-## Project Overview SIH 1732
+## Project Overview 
 
 This project aims to enhance the feeble light reflected from the Permanently Shadowed Regions (PSR) of Lunar craters into higher Signal-to-Noise Ratio (SNR) images for better interpretation and analysis.
 
